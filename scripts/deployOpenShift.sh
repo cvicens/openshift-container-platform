@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo $(date) " - Starting Script"
+echo $(date) " - Starting Script Carlos Vicens Version"
 
 set -e
 
